@@ -25,9 +25,9 @@ jobs:
   with: 
   version: 12
     
-    - name: npm/yarn/npm install
-       uses: Jaid/action-npm-install@v1.2.4
-      with:
+    # - name: npm/yarn/npm install
+    #    uses: Jaid/action-npm-install@v1.2.4
+    #   with:
       
       
       - name: Creating build
